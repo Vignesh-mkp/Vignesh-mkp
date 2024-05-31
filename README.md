@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vignesh-mkp
-- 👀 I’m interested in C#.NET & CAD Automization.
-- 🌱 I’m currently learning CAD Automization & Customization.
-- 💞️ I’m looking to collaborate on Automization.
+- 👀 I’m interested in C#.NET & CAD Automation.
+- 🌱 I’m currently learning CAD Automation & Customization.
+- 💞️ I’m looking to collaborate on Automation projects.
 - 📫 How to reach me 9791910402.
 - 😄 Pronouns: Vicky.
 - ⚡ Fun fact: ...
